@@ -1,0 +1,5 @@
+Tên: nguyen
+Tuổi: 23
+Địa chỉ: hh
+Id: 1
+
